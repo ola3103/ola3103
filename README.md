@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Olakunle Wonuola
-- 👀 I’m interested in web development , UI/UX design and software development.
+- I use Javascript, React.js, Node.js, express.js, html, css, bootstrap and figma.
+- 👀 I’m interested in web development , backend development and software development.
 - 🌱 I’m currently learning javascript libraries and backend languages
 - 💞️ I’m looking to collaborate on web development projects including frontend and backend
 - 📫 You can reach me on wonuolaolakunle@gmail.com
